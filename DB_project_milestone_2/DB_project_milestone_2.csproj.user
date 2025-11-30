@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_gym_performance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_gym_hammer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="book_session_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create_meal_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="create_workout_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dietplan_creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dietplan_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="explore_meal_plan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="explore_workout_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="feedbackform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback_by_mbr_to_trn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback_comb_rtg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback_specific_gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_approval_trainer_req.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gym_owner_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_member_request_approval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_trainer_reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gym_reg_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="general_login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meals_option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="member_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="member_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gym_owner_register_gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="member_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register_in_gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registration_request_gym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="remove_trainer_member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reportform1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trainer_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trainer_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="workoutplan_creation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="workoutplan_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="workout_plan_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
